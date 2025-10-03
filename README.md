@@ -1,6 +1,6 @@
 <h1>Simple Jokes App</h1>
 
-<p>A basic project to connect a React frontend to an Express backend.</p>
+<p>A basic project to connect a React frontend to an Express backend using proxy</p>
 
 <h2>How to Run</h2>
 
