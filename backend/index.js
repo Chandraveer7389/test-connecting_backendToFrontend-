@@ -7,7 +7,7 @@ const jokes = [
   {
     id: 1,
     element: "Why don't programmers like nature?",
-    joke: "It has too many bugs."
+    joke: "It has too many bugs. hi"
   },
   {
     id: 2,
